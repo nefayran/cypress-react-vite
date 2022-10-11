@@ -1,0 +1,581 @@
+{
+  "/Users/Rodion_Kazennov/Documents/Projects/Medium/cypress-react-vite/src/App.tsx": {
+    "path": "/Users/Rodion_Kazennov/Documents/Projects/Medium/cypress-react-vite/src/App.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 4,
+          "column": 0
+        },
+        "end": {
+          "line": 14,
+          "column": 1
+        }
+      },
+      "1": {
+        "start": {
+          "line": 5,
+          "column": 2
+        },
+        "end": {
+          "line": 7,
+          "column": 3
+        }
+      },
+      "2": {
+        "start": {
+          "line": 6,
+          "column": 4
+        },
+        "end": {
+          "line": 6,
+          "column": 165
+        }
+      },
+      "3": {
+        "start": {
+          "line": 8,
+          "column": 2
+        },
+        "end": {
+          "line": 8,
+          "column": 39
+        }
+      },
+      "4": {
+        "start": {
+          "line": 9,
+          "column": 2
+        },
+        "end": {
+          "line": 9,
+          "column": 39
+        }
+      },
+      "5": {
+        "start": {
+          "line": 10,
+          "column": 2
+        },
+        "end": {
+          "line": 12,
+          "column": 4
+        }
+      },
+      "6": {
+        "start": {
+          "line": 11,
+          "column": 4
+        },
+        "end": {
+          "line": 11,
+          "column": 123
+        }
+      },
+      "7": {
+        "start": {
+          "line": 13,
+          "column": 2
+        },
+        "end": {
+          "line": 13,
+          "column": 75
+        }
+      },
+      "8": {
+        "start": {
+          "line": 15,
+          "column": 19
+        },
+        "end": {
+          "line": 15,
+          "column": 100
+        }
+      },
+      "9": {
+        "start": {
+          "line": 15,
+          "column": 107
+        },
+        "end": {
+          "line": 15,
+          "column": 121
+        }
+      },
+      "10": {
+        "start": {
+          "line": 21,
+          "column": 2
+        },
+        "end": {
+          "line": 21,
+          "column": 7
+        }
+      },
+      "11": {
+        "start": {
+          "line": 22,
+          "column": 28
+        },
+        "end": {
+          "line": 22,
+          "column": 39
+        }
+      },
+      "12": {
+        "start": {
+          "line": 23,
+          "column": 2
+        },
+        "end": {
+          "line": 107,
+          "column": 11
+        }
+      },
+      "13": {
+        "start": {
+          "line": 72,
+          "column": 23
+        },
+        "end": {
+          "line": 72,
+          "column": 55
+        }
+      },
+      "14": {
+        "start": {
+          "line": 72,
+          "column": 44
+        },
+        "end": {
+          "line": 72,
+          "column": 54
+        }
+      },
+      "15": {
+        "start": {
+          "line": 109,
+          "column": 0
+        },
+        "end": {
+          "line": 109,
+          "column": 40
+        }
+      },
+      "16": {
+        "start": {
+          "line": 110,
+          "column": 0
+        },
+        "end": {
+          "line": 110,
+          "column": 9
+        }
+      },
+      "17": {
+        "start": {
+          "line": 113,
+          "column": 0
+        },
+        "end": {
+          "line": 113,
+          "column": 24
+        }
+      },
+      "18": {
+        "start": {
+          "line": 114,
+          "column": 0
+        },
+        "end": {
+          "line": 124,
+          "column": 1
+        }
+      },
+      "19": {
+        "start": {
+          "line": 115,
+          "column": 2
+        },
+        "end": {
+          "line": 115,
+          "column": 39
+        }
+      },
+      "20": {
+        "start": {
+          "line": 116,
+          "column": 2
+        },
+        "end": {
+          "line": 116,
+          "column": 39
+        }
+      },
+      "21": {
+        "start": {
+          "line": 117,
+          "column": 2
+        },
+        "end": {
+          "line": 117,
+          "column": 27
+        }
+      },
+      "22": {
+        "start": {
+          "line": 118,
+          "column": 2
+        },
+        "end": {
+          "line": 123,
+          "column": 3
+        }
+      },
+      "23": {
+        "start": {
+          "line": 119,
+          "column": 4
+        },
+        "end": {
+          "line": 122,
+          "column": 11
+        }
+      },
+      "24": {
+        "start": {
+          "line": 120,
+          "column": 6
+        },
+        "end": {
+          "line": 120,
+          "column": 45
+        }
+      },
+      "25": {
+        "start": {
+          "line": 121,
+          "column": 6
+        },
+        "end": {
+          "line": 121,
+          "column": 43
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 10,
+            "column": 24
+          },
+          "end": {
+            "line": 10,
+            "column": 25
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 10,
+            "column": 38
+          },
+          "end": {
+            "line": 12,
+            "column": 3
+          }
+        },
+        "line": 10
+      },
+      "1": {
+        "name": "App",
+        "decl": {
+          "start": {
+            "line": 20,
+            "column": 9
+          },
+          "end": {
+            "line": 20,
+            "column": 12
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 20,
+            "column": 15
+          },
+          "end": {
+            "line": 108,
+            "column": 1
+          }
+        },
+        "line": 20
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": {
+            "line": 72,
+            "column": 17
+          },
+          "end": {
+            "line": 72,
+            "column": 18
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 72,
+            "column": 23
+          },
+          "end": {
+            "line": 72,
+            "column": 55
+          }
+        },
+        "line": 72
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": {
+            "line": 72,
+            "column": 32
+          },
+          "end": {
+            "line": 72,
+            "column": 33
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 72,
+            "column": 44
+          },
+          "end": {
+            "line": 72,
+            "column": 54
+          }
+        },
+        "line": 72
+      },
+      "4": {
+        "name": "(anonymous_4)",
+        "decl": {
+          "start": {
+            "line": 119,
+            "column": 52
+          },
+          "end": {
+            "line": 119,
+            "column": 53
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 119,
+            "column": 58
+          },
+          "end": {
+            "line": 122,
+            "column": 5
+          }
+        },
+        "line": 119
+      }
+    },
+    "branchMap": {
+      "0": {
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 0
+          },
+          "end": {
+            "line": 14,
+            "column": 1
+          }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {
+              "line": 4,
+              "column": 0
+            },
+            "end": {
+              "line": 14,
+              "column": 1
+            }
+          },
+          {
+            "start": {},
+            "end": {}
+          }
+        ],
+        "line": 4
+      },
+      "1": {
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2
+          },
+          "end": {
+            "line": 7,
+            "column": 3
+          }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {
+              "line": 5,
+              "column": 2
+            },
+            "end": {
+              "line": 7,
+              "column": 3
+            }
+          },
+          {
+            "start": {},
+            "end": {}
+          }
+        ],
+        "line": 5
+      },
+      "2": {
+        "loc": {
+          "start": {
+            "line": 114,
+            "column": 0
+          },
+          "end": {
+            "line": 124,
+            "column": 1
+          }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {
+              "line": 114,
+              "column": 0
+            },
+            "end": {
+              "line": 124,
+              "column": 1
+            }
+          },
+          {
+            "start": {},
+            "end": {}
+          }
+        ],
+        "line": 114
+      },
+      "3": {
+        "loc": {
+          "start": {
+            "line": 118,
+            "column": 2
+          },
+          "end": {
+            "line": 123,
+            "column": 3
+          }
+        },
+        "type": "if",
+        "locations": [
+          {
+            "start": {
+              "line": 118,
+              "column": 2
+            },
+            "end": {
+              "line": 123,
+              "column": 3
+            }
+          },
+          {
+            "start": {},
+            "end": {}
+          }
+        ],
+        "line": 118
+      }
+    },
+    "s": {
+      "0": 2,
+      "1": 2,
+      "2": 0,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 2,
+      "12": 2,
+      "13": 0,
+      "14": 0,
+      "15": 2,
+      "16": 2,
+      "17": 2,
+      "18": 2,
+      "19": 2,
+      "20": 2,
+      "21": 2,
+      "22": 2,
+      "23": 2,
+      "24": 2,
+      "25": 2
+    },
+    "f": {
+      "0": 2,
+      "1": 2,
+      "2": 0,
+      "3": 0,
+      "4": 2
+    },
+    "b": {
+      "0": [
+        2,
+        0
+      ],
+      "1": [
+        0,
+        2
+      ],
+      "2": [
+        2,
+        0
+      ],
+      "3": [
+        2,
+        0
+      ]
+    },
+    "inputSourceMap": {
+      "version": 3,
+      "mappings": ";;;;;;;;;;;;;;;AAAA,SAASA,gBAAgB;AACzB,OAAOC,eAAe;AACtB,OAAO;AAAW;AAElB,SAASC,MAAM;AAAA;AACb,QAAM,CAACC,OAAOC,QAAQ,IAAIJ,SAAS,CAAC;AAEpC,SACE;AAAA,IAAK,WAAU;AAAA,IAAK,WAClB;AAAA,iBACE;AAAA,QAAG,MAAK;AAAA,QAAqB,QAAO;AAAA,QAAQ,UAC1C;AAAA,UAAK,KAAI;AAAA,UAAY,WAAU;AAAA,UAAO,KAAI;AAAA,QAAW;AAAA;AAAA;AAAA;AAAA;AAAA,MAAG;AAAA;AAAA;AAAA;AAAA,gBAE1D;AAAA,QAAG,MAAK;AAAA,QAAsB,QAAO;AAAA,QAAQ,UAC3C;AAAA,UAAK,KAAKC;AAAAA,UAAW,WAAU;AAAA,UAAa,KAAI;AAAA,QAAY;AAAA;AAAA;AAAA;AAAA;AAAA,MAAG;AAAA;AAAA;AAAA;AAAA,cAC7D;AAAA;AAAA;AAAA;AAAA;AAAA,cAEN;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,cACA;AAAA,MAAK,WAAU;AAAA,MAAM,WACnB;AAAA,QAAQ,SAAS,MAAMG,SAAUD,YAAUA,SAAQ,CAAC;AAAA,QAAE,wBAC1CA,KAAK;AAAA;AAAA;AAAA;AAAA;AAAA,gBAEjB;AAAA,4BACO;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA,kBAAwB;AAAA;AAAA;AAAA;AAAA;AAAA,cAC3B;AAAA;AAAA;AAAA;AAAA;AAAA,cAEN;AAAA,MAAG,WAAU;AAAA,MAAe;AAAA;AAAA;AAAA;AAAA;AAAA,YAExB;AAAA;AAAA;AAAA;AAAA;AAAA;AAGV;AAAC,GA3BQD,KAAG;AAAA,KAAHA;AA6BT,eAAeA;AAAG;AAAA",
+      "names": [
+        "useState",
+        "reactLogo",
+        "App",
+        "count",
+        "setCount"
+      ],
+      "sources": [
+        "/Users/Rodion_Kazennov/Documents/Projects/Medium/cypress-react-vite/src/App.tsx"
+      ],
+      "file": "/Users/Rodion_Kazennov/Documents/Projects/Medium/cypress-react-vite/src/App.tsx"
+    },
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "3523079dee9380928909d5a2b4140ab8e327782a"
+  }
+}
