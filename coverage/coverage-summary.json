@@ -1,3 +1,0 @@
-{"total": {"lines":{"total":6,"covered":5,"skipped":0,"pct":83.33},"statements":{"total":8,"covered":6,"skipped":0,"pct":75},"functions":{"total":3,"covered":1,"skipped":0,"pct":33.33},"branches":{"total":0,"covered":0,"skipped":0,"pct":100},"branchesTrue":{"total":0,"covered":0,"skipped":0,"pct":"Unknown"}}
-,"/Users/Rodion_Kazennov/Documents/Projects/Medium/cypress-react-vite/src/App.tsx": {"lines":{"total":6,"covered":5,"skipped":0,"pct":83.33},"functions":{"total":3,"covered":1,"skipped":0,"pct":33.33},"statements":{"total":8,"covered":6,"skipped":0,"pct":75},"branches":{"total":0,"covered":0,"skipped":0,"pct":100}}
-}
