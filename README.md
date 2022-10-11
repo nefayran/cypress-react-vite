@@ -1,5 +1,4 @@
-# cypress-react-vite [![renovate-app badge][renovate-badge]][renovate-app] [![CircleCI](https://circleci.com/gh/bahmutov/code-coverage-vue-example/tree/master.svg?style=svg)](https://circleci.com/gh/bahmutov/code-coverage-vue-example/tree/master) [![Coverage Status](https://coveralls.io/repos/github/bahmutov/code-coverage-vue-example/badge.svg)](https://coveralls.io/github/bahmutov/code-coverage-vue-example)
-> Code coverage for Vue single file components from Cypress.io end-to-end tests
+# cypress-react-vite [![renovate-app badge][renovate-badge]][renovate-app] [![CircleCI](https://circleci.com/gh/bahmutov/code-coverage-vue-example/tree/master.svg?style=svg)](https://circleci.com/gh/bahmutov/code-coverage-vue-example/tree/master)
 
 Uses [@cypress/code-coverage](https://github.com/cypress-io/code-coverage) plugin for [Cypress.io](https://www.cypress.io) test runner. See [https://on.cypress.io/code-coverage](https://on.cypress.io/code-coverage) documentation.
 
